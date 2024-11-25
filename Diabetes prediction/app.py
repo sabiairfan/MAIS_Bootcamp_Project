@@ -56,11 +56,6 @@ model = MLPClassifier(
     learning_rate_init=0.001,
     )
 
-#model.fit(X_train, y_train)
-
-#accuracy = accuracy_score(y_test, model.predict(X_test))
-#print(f"Model accuracy: {accuracy:.2f}")
-
 param_grid = {
     'hidden_layer_sizes': [(50,), (100,), (50, 50)],  
     'alpha': [0.0001, 0.001, 0.01],  
