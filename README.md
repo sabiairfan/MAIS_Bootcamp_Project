@@ -4,4 +4,4 @@ This project is a neural network, Multilayer Perception that predicts if the fem
 
 This project's web application is a form that takes as input the various features listed above and predicts diabetes. 
 
-This project uses sklearn, Flask, wtf, pandas, numpy, OS, GridSearchCSV to create the MLP model and predictions with a 77% accuracy. 
+This project uses sklearn, Flask, wtf forms, pandas, numpy, OS, GridSearchCSV to create the MLP model and predictions with a 77% accuracy. 
