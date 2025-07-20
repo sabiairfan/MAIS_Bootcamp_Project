@@ -1,4 +1,4 @@
-# MAIS_Bootcamp_Project
+# MAIS_Bootcamp_Project_Diabetes_Predictor
 
 This project is a neural network, Multilayer Perception that predicts if the female patient has Diabetes through their pregnancies, glucose, blood preassure, skin thickness, insulin, BMI, diabetes percentage, and age.
 
